@@ -3,7 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-	
+	The staging area is where the files are temporarily kept before a commit. If there are 4-5 different codes and each has it's own set of functions, it may not be necessary to commit all the sub-routines in each commit. Hence, in the staging area, you may choose which files to commit. Working directory consists of all the files in that directory including other sub-directories and other format files. Repository contains other commits as well i.e. previous versions whereas staging area only consists of files from the latest version of code.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
