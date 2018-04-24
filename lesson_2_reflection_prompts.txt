@@ -7,14 +7,18 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	We can use the git status command to check if we have made any changes to our code. We can also use the git diff command and compare our current version of the file to a previous version of the file.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	Branches can be helpful when we want to test out an experimental veriosn of our current code or if we want to develop our code in a different direction.
 
 How do the diagrams help you visualize the branch structure?
+	The diagrams help us visualize the structure since it is a visual representation of the different branches in the repository as well as the different commits in each branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+	When we merge the branches, all the changes made by individual branches are saved as a single file. We represent it in the diagram the way we do because two individual branches existed before the merge operation.
+	
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
