@@ -47,3 +47,6 @@ How might using version control make you more confident to make changes that cou
 
 Now that you have your workspace set up, what do you want to try using Git for?
 	Using Git for version control of my codes for machine learning applications on Udacity.
+
+
+	The end of lesson 1
