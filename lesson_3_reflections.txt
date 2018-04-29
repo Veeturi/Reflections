@@ -1,0 +1,4 @@
+When would you want to create a remote repository rather than keeping all your work local?
+  1. When we are working on a differnt remporary system.
+  2. When we want to save all our changes to an online drive.
+  3. When we are experienceing unpredictable situations on our local computer which may render our data unsaved.
