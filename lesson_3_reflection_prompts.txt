@@ -5,3 +5,9 @@ When would you want to create a remote repository rather than keeping all your w
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	We may have made some changes to the online repository ahich we do not want to be reflected on the local repository hence, it is always better to do it manually.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	It can prove advantageous when one would want to eork offline for e.g. in case of boarding a flight etc. Once you are online, if one would like to know the changes made after the last known state and compare it to the changes made locally, he can do so with the help of the last know change in remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	We can collaborate using different cloud storage options e.g. dropbox, google drive etc. This would definitely be harder since there is no easy way of keeping track of different changes made by different users.
